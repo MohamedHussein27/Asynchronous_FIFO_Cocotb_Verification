@@ -1,0 +1,20 @@
+<top abs_name="top" size="8" coverage="8" cover_percentage="100.0">
+  <fifo size="8" coverage="8" cover_percentage="100.0" abs_name="top.fifo">
+    <write_trans size="2" coverage="2" cover_percentage="100.0" abs_name="top.fifo.write_trans" weight="1" at_least="1">
+      <bin0 bin="write_disabled" hits="52" abs_name="top.fifo.write_trans.bin0" />
+      <bin1 bin="write_enabled" hits="39" abs_name="top.fifo.write_trans.bin1" />
+    </write_trans>
+    <read_trans size="2" coverage="2" cover_percentage="100.0" abs_name="top.fifo.read_trans" weight="1" at_least="1">
+      <bin0 bin="read_disabled" hits="29" abs_name="top.fifo.read_trans.bin0" />
+      <bin1 bin="read_enabled" hits="62" abs_name="top.fifo.read_trans.bin1" />
+    </read_trans>
+    <full_flag size="2" coverage="2" cover_percentage="100.0" abs_name="top.fifo.full_flag" weight="1" at_least="1">
+      <bin0 bin="not_full" hits="89" abs_name="top.fifo.full_flag.bin0" />
+      <bin1 bin="full" hits="2" abs_name="top.fifo.full_flag.bin1" />
+    </full_flag>
+    <empty_flag size="2" coverage="2" cover_percentage="100.0" abs_name="top.fifo.empty_flag" weight="1" at_least="1">
+      <bin0 bin="not_empty" hits="80" abs_name="top.fifo.empty_flag.bin0" />
+      <bin1 bin="empty" hits="11" abs_name="top.fifo.empty_flag.bin1" />
+    </empty_flag>
+  </fifo>
+</top>
