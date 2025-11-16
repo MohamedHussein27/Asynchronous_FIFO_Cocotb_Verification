@@ -75,9 +75,9 @@ This waveform demonstrates:
 
 ### For Detailed Verification
 
-For full analysis, explanation, state-machine behavior, pointer transitions, and CDC timing notes:
+For full analysis, explanation:
 
-👉 Refer to the full project documentation.
+👉 Refer to the full [project documentation](https://github.com/MohamedHussein27/Asynchronous_FIFO_Cocotb_Verification/blob/main/Documentation/Aysnchronous_FIFO_Cocotb.pdf).
 
 ## Asynchronous FIFO Specifications
 
