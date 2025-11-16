@@ -47,11 +47,13 @@ Simulation is run using **Icarus Verilog**, waveforms viewed in **GTKWave**.
 
 This demonstrates modern verification practices compared to traditional HDL-only flows.
 
+![coctb](https://github.com/MohamedHussein27/Asynchronous_FIFO_Cocotb_Verification/blob/main/Python_Verification/Cocotb_Illustration.png)
+
 ## Waveform Results
 
 ### QuestaSim Full Waveform
 
-![QuestaSim Full Waveform]()
+![QuestaSim Full Waveform](https://github.com/MohamedHussein27/Asynchronous_FIFO_Cocotb_Verification/blob/main/Simulation%20(QuestaSim)/Full_Waveform_Quest.png)
 
 This waveform illustrates:
 
@@ -62,7 +64,7 @@ This waveform illustrates:
 
 ### GTKWave Full Waveform (Cocotb Simulation)
 
-![GTKWave Full Waveform]()
+![GTKWave Full Waveform](https://github.com/MohamedHussein27/Asynchronous_FIFO_Cocotb_Verification/blob/main/Simualtion%20(GTKWave)/Full_Wave.png)
 
 This waveform demonstrates:
 
@@ -132,3 +134,8 @@ The Cocotb testbench provides strong confidence in:
 - Pointer synchronization accuracy
 - Data integrity across clock domains
 - Realistic and randomized stimulus testing
+
+## Contact Me!
+- [Email](mailto:Mohamed_Hussein2100924@outlook.com)
+- [WhatsApp](https://wa.me/+2001097685797)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-hussein-274337231)
